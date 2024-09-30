@@ -1,8 +1,8 @@
 {
   "tauri": {
     "bundle": {
-      "icon": ["png/weread_512.png"],
-      "identifier": "com.pake.weread",
+      "icon": ["png/aiwork365_512.png"],
+      "identifier": "com.pake.aiwork365",
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",
