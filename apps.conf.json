@@ -1,9 +1,9 @@
 {
   "apps": [
     {
-      "name": "aiwork365",
-      "title": "aiwork365",
-      "name_zh": "aiwork365",
+      "name": "chatgpt",
+      "title": "ChatGPT",
+      "name_zh": "ChatGPT",
       "url": "https://aiwork365.cn"
     }
   ]
